@@ -13,6 +13,7 @@ let items = ['glass' , 'indicator' , 'filter' , 'tier' , 'seat'];
 for(i=0;i<items.length;i++){
  let item = items[i];
  console.log(item);
+ 
 }
 /**
  * you can break it befor fulfilling the condition
